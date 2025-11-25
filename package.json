@@ -1,0 +1,23 @@
+{
+  "name": "svar-react-grid-experiment",
+  "dependencies": {
+    "@babel/runtime": "7.28.4",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "@svar-ui/react-grid": "2.3.2"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "7.28.5",
+    "@babel/preset-react": "7.28.5",
+    "@babel/preset-typescript": "7.28.5",
+    "@types/react-dom": "19.2.3",
+    "babel-loader": "10.0.0",
+    "css-loader": "7.1.2",
+    "sass": "1.94.2",
+    "sass-loader": "16.0.6",
+    "style-loader": "4.0.0",
+    "ts-loader": "9.5.4",
+    "webpack": "5.103.0",
+    "webpack-cli": "6.0.1"
+  }
+}
