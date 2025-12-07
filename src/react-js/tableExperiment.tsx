@@ -1,7 +1,7 @@
 import React from "react";
 
 import { Grid, Willow } from "@svar-ui/react-grid";
-import "@svar-ui/react-grid/all.css";
+require('@svar-ui/react-grid/all.css');
 
 import type { IColumnConfig, IRow } from "@svar-ui/react-grid";
 
